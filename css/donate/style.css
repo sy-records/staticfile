@@ -46,7 +46,7 @@ a{
 	height: 70px;
 	line-height: 70px;
 	color: #fff;
-	background: #ffd886 url(https://fastly.jsdelivr.net/gh/sy-records/staticfile/images/donate/like.svg) no-repeat center 10px;
+	background: #ffd886 url(https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/donate/like.svg) no-repeat center 10px;
 	background-size: 20px;
 	border-radius: 35px;
 	text-align: center;
@@ -96,14 +96,14 @@ a{
 	display: block;
 }
 #donateBox #PayPal {
-	background-image: url(https://fastly.jsdelivr.net/gh/sy-records/staticfile/images/donate/paypal.svg);
+	background-image: url(https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/donate/paypal.svg);
 }
 
 #donateBox #AliPay {
-	background-image: url(https://fastly.jsdelivr.net/gh/sy-records/staticfile/images/donate/alipay.svg);
+	background-image: url(https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/donate/alipay.svg);
 }
 #donateBox #WeChat {
-	background-image: url(https://fastly.jsdelivr.net/gh/sy-records/staticfile/images/donate/wechat.svg);
+	background-image: url(https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/donate/wechat.svg);
 }
 #QRBox {
 	top: 0;
@@ -137,7 +137,7 @@ a{
 	height: 24px;
 	left: calc(50% + 98.5px);
 	top: calc(50% - 30px);
-	background: no-repeat center center url(https://fastly.jsdelivr.net/gh/sy-records/staticfile/images/donate/github.svg);
+	background: no-repeat center center url(https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/donate/github.svg);
 	background-size: contain;
 	opacity: 0.3;
 	transform: rotatez(15deg );
