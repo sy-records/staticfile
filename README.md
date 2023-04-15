@@ -4,6 +4,6 @@
 
 ## Thanks
 
-[![](https://www.jsdelivr.com/img/logo-horizontal.svg)](https://www.jsdelivr.com)
+[![](https://raw.githubusercontent.com/jsdelivr/www.jsdelivr.com/master/src/assets/img/logo.png)](https://www.jsdelivr.com)
 
 Thanks to jsDelivr for the CDN service. 
