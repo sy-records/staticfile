@@ -8,5 +8,6 @@
 	"a/aliyun": "https://www.aliyun.com/minisite/goods?userCode=48hw7fvs",
 	"a/ali-daily": "https://www.aliyun.com/activity/daily/cloud?userCode=48hw7fvs",
 	"a/bt": "https://www.bt.cn/?invite_code=MV91emh0em4=",
-	"mqtt": "https://mqtt.simps.io"
+	"mqtt": "https://mqtt.simps.io",
+	"qm/ccs": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1LA2-KsU5OSvL7FXnIzOfqOKk6e45IxB&authKey=hEEtbUrp7BynuZ%2Ft5ECda%2ButnquA9iKpbPFYDAaVXhdDuPT2bb9wuMY1ZqZckH94&noverify=0&group_code=887595381"
 }
